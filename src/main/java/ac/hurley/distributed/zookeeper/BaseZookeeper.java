@@ -1,4 +1,4 @@
-package ac.hurley.mq.zookeeper;
+package ac.hurley.distributed.zookeeper;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;
